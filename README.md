@@ -1,1 +1,2 @@
-This is the first year project based on Library-Management-System. In this project, Javascript, CSS and HTML.
+# Library-management-system
+Front-End of Library management system
